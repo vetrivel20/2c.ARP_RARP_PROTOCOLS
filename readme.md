@@ -2,7 +2,7 @@
 
 ### Name: M.Vetrivel
 ### Register Number: 212225040487
-### Date: 04-11-2026
+### Date: 04.11.2026
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
